@@ -1,5 +1,5 @@
 var files = [
-  "/Projeto-Final/index.html",
+  "/index.html",
 ];
 // dev only
 if (typeof files == 'undefined') {
