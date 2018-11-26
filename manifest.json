@@ -1,0 +1,10 @@
+{
+  "name": "Adesk ",
+  "short_name": "Adesk",
+  "theme_color": "#f32121",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "/"
+}// JSON Document
