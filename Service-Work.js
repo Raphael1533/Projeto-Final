@@ -1,5 +1,5 @@
 var files = [
-  "/index.html",
+  "pwa/index.html",
 ];
 // dev only
 if (typeof files == 'undefined') {
